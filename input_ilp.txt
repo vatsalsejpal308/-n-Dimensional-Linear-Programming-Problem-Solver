@@ -1,0 +1,17 @@
+[objective]
+maximize
+
+[A]
+8000, 4000
+15, 30
+
+[b]
+40000
+200
+
+[constraint_types]
+<=
+<=
+
+[c]
+100, 150
